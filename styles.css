@@ -341,7 +341,7 @@ a {
     transition: 0.5s;
 }
 
-td {
+table {
     border: 2px solid white;
     border-collapse: collapse;
 }
