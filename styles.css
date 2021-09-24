@@ -341,7 +341,9 @@ a {
     transition: 0.5s;
 }
 
-table {
-    border: 2px solid white;
+table,tr,td{
+    text-align: center;
+    margin-left: 480px;
+    border: 2px solid black;
     border-collapse: collapse;
 }
