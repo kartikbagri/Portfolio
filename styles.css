@@ -344,6 +344,6 @@ a {
 table,tr,td{
     text-align: center;
     padding: 1px;
-    border: 2px solid black;
+    border: 2px solid white;
     border-collapse: collapse;
 }
