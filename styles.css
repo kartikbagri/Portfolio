@@ -343,7 +343,7 @@ a {
 
 table,tr,td{
     text-align: center;
-    margin-left: 480px;
+    padding: 1px;
     border: 2px solid black;
     border-collapse: collapse;
 }
